@@ -1,4 +1,4 @@
-# taking a vacation. Make you own scenario and create a program that display the cost of travel. 
+# taking a vacation using making decisions with if-elif. Make you own scenario and create a program that display the cost of travel. 
 
 def hotel_cost(nights):
   return(140* nights)
