@@ -1,3 +1,5 @@
+# class vs instance of a class ( or class variable)
+
 class Girl:
 
     # this common to all objects in the class, class variable
