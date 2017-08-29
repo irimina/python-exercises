@@ -25,3 +25,6 @@ else:
     print('empty')
 
 
+    # Besides isalpha(), check other built-in methods such as: isdigit() for digits, isnumeric() for numbers or isdecimal() for decimal characters
+    
+   
